@@ -1,0 +1,1 @@
+enum ServerStatusEnum { Online, Offline, Connecting }
